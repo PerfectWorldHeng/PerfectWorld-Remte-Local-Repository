@@ -2,6 +2,6 @@
 #include <stdlib.h>
 int main(void)
 {
-	printf("hello git\n");
+	int a = 0;
 	return 0;
 }
